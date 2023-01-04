@@ -374,6 +374,11 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
+"@faker-js/faker@^7.6.0":
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/@faker-js/faker/-/faker-7.6.0.tgz#9ea331766084288634a9247fcd8b84f16ff4ba07"
+  integrity sha512-XK6BTq1NDMo9Xqw/YkYyGjSsg44fbNwYRx7QK2CuoQgyy+f1rrTDHoExVM5PsyXCtfl2vs2vVJ0MN0yN6LppRw==
+
 "@humanwhocodes/config-array@^0.11.8":
   version "0.11.8"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.11.8.tgz#03595ac2075a4dc0f191cc2131de14fbd7d410b9"
@@ -707,6 +712,11 @@
     path-to-regexp "3.2.0"
     tslib "2.4.1"
     uuid "9.0.0"
+
+"@nestjs/mapped-types@^1.2.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@nestjs/mapped-types/-/mapped-types-1.2.0.tgz#1bbdbb5c956f0adb3fd76add929137bc6ad3183f"
+  integrity sha512-NTFwPZkQWsArQH8QSyFWGZvJ08gR+R4TofglqZoihn/vU+ktHEJjMqsIsADwb7XD97DhiD+TVv5ac+jG33BHrg==
 
 "@nestjs/platform-express@^9.0.0":
   version "9.2.1"

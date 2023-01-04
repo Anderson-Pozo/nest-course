@@ -50,4 +50,8 @@ export class CarsService {
         this.cars = this.cars.filter(car => car.id !== carDB.id)
         return { ok: true, message: `Car with id ${ id  } was deleted` }
     }
+
+    fillCarsWithSeedData(cars: Car[]){
+        this.cars = cars;
+    }
 }
